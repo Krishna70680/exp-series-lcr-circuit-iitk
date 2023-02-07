@@ -5,13 +5,15 @@
 
 
 <br>
-<b> Experiment : Name of the experiment	 <a name="top"></a> <br>
+<b> Experiment :To study the resonance condition of a
+series LCR circuit	 <a name="top"></a> <br>
 </p>
 
-<b>Discipline | Fill your discipline name here <b> 
+<b>Discipline | Physical Science  <b> 
 :--|:--|
-<b> Lab | Fill your lab name here<b> 
-<b> Experiment|  Fill your experiment name here   <b> 
+<b> Lab | Physics Lab<b> 
+<b> Experiment|  To study the resonance condition of a
+series LCR circuit   <b> 
 
 
 <h4> [1. Focus Area](#LO)
