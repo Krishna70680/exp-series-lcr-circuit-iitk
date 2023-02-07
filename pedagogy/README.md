@@ -5,8 +5,7 @@
 
 
 <br>
-<b> Experiment :To study the resonance condition of a
-series LCR circuit	 <a name="top"></a> <br>
+<b> Experiment :To study the resonance condition of aseries LCR circuit	 <a name="top"></a> <br>
 </p>
 
 <b>Discipline | Physical Science  <b> 
