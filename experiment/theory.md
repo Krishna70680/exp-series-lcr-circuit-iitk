@@ -1,4 +1,4 @@
-### Link your theory in here
+### Theory
 An inductor (L), capacitor (C), and resistor (R) are linked in series in the electrical
 <br>circuit, which is powered by an AC voltage supply. The alternating voltage V is
 <br>supplied by the voltage source, where
