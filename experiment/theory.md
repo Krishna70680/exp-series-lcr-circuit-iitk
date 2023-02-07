@@ -73,7 +73,7 @@ An inductor (L), capacitor (C), and resistor (R) are linked in series in the ele
 <br>are in phase
 <br>● For θ=90∘ , The applied voltage is out of phase with the instantaneous
 <br>current
-<h2>Resonance of LCR Circuit
+<h2>Resonance of LCR Circuith</h2>
  <br> It is the condition when the output of a circuit reaches its maximum at a
 <br>specific frequency, it is said to be in resonance.The resonance phenomenon is
 <br>connected with systems that have a tendency to oscillate at a specific
