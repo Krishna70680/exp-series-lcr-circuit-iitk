@@ -73,3 +73,46 @@ An inductor (L), capacitor (C), and resistor (R) are linked in series in the ele
 <br>are in phase
 <br>● For θ=90∘ , The applied voltage is out of phase with the instantaneous
 <br>current
+<h2>Resonance of LCR Circuit
+ <br> It is the condition when the output of a circuit reaches its maximum at a
+<br>specific frequency, it is said to be in resonance.The resonance phenomenon is
+<br>connected with systems that have a tendency to oscillate at a specific
+<br>frequency known as the natural frequency of the system.
+<br>We discovered that the amplitudes of voltage, frequency, and current are
+<br>related to each other in the following series of LCR circuits:
+<br>Im=Vm/Z = Vm / √R
+<br>2+(XC–XL)
+<br>2
+<br>where,
+<br>● XC=1/ωC and
+<br>● XL=ωL
+<br>Im=Vm/Z=Vm / √R
+<br>2+(1/ωC−ωL)
+<br>2
+<br>When the circuit’s impedance is low, the current flowing through it is at its
+<br>maximum. To accomplish so, we change the frequency value till we have
+<br>XC=XL at a given frequency of ω0 and the impedance,
+<br>Z=√ R
+<br>2+(XC−XL)
+<br>2 = √ R
+<br>2+0 = R
+<br>Thus, the current will be maximum, i.e. ,
+<br>I=Vm/R
+<br>ANM
+<br>When the series LCR circuit’s impedance, Z=R, equals the resistance. This
+<br>frequency ω0 is referred to as the circuit’s resonant frequency.
+<br>For, XC=XL
+<br>1/ω0C=ω0L Or,
+<br>ω0 = 1/√LC
+<br>Resonance occurs in a series LCR circuit when the capacitive and inductive
+<br>reactances are equal in magnitude but 180 degrees apart in phase.
+<br>For the series LCR circuit, the phase difference,
+<br>∅=tan
+<br>-1
+<br>(XC–XL / R)
+<br>For, XC=XL
+<br>, ∅=0, the circuit is in resonance.
+<br>XC>XL
+<br>, ∅<0, the circuit is predominately capacitive
+<br>XC<XL
+<br>, ∅>0, the circuit is predominately i
