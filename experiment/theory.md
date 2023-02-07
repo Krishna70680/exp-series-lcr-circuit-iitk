@@ -41,4 +41,4 @@ An inductor (L), capacitor (C), and resistor (R) are linked in series in the ele
 <br>● Capacitive reactance: XC=1/ωC
 <br>● Inductive reactance: XL=ωL
 <br>● Impedance: Z= √ (R^2 + (|X L - X C |)^ 2)
-<img  src="Screenshot_20230207_030652.png">
+<img  src="[Screenshot_20230207_030652.png](https://github.com/Krishna70680/exp-series-lcr-circuit-iitk/blob/main/experiment/Screenshot_20230207_030652.png)">
