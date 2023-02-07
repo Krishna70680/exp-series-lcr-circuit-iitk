@@ -4,7 +4,7 @@
 <b>Discipline | <b>Physical science Lab
 :--|:--|
 <b> Lab | <b> Physics Lab
-<b> Experiment|     <b> To study the resonance condition of aseries LCR circuit and Experiment 10
+<b> Experiment|     <b> To study the resonance condition of a series LCR circuit and Experiment 10
 
 ### About the Experiment 
 
