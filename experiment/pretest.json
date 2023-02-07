@@ -2,12 +2,13 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In a series RLC, circuit R=30 ohm, L=15 mH, C=51 μF. If the frequency and voltage are 60 Hz
+and 12 V. What is the current in the circuit",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "217 mA",
+        "b": "250 mA 2",
+        "c": "2.17 A",
+        "d": "None of these"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
