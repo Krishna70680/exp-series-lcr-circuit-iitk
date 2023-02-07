@@ -5,13 +5,12 @@
 
 
 <br>
-<b> Experiment :To study the resonance condition of aseries LCR circuit	 <a name="top"></a> <br></p>
+<b> Experiment :To study the resonance condition of a series LCR circuit	 <a name="top"></a> <br></p>
 
 <b>Discipline | Physical Science  <b> 
 :--|:--|
 <b> Lab | Physics Lab<b> 
-<b> Experiment|  To study the resonance condition of a
-series LCR circuit   <b> 
+<b> Experiment|  To study the resonance condition of a series LCR circuit   <b> 
 
 
 <h4> [1. Focus Area](#LO)
