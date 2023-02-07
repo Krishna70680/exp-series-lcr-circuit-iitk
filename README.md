@@ -11,7 +11,7 @@
 This experiment is to find the resounance condition of a series LCR circuit where in series a inductor ,a capacitor and a resistance are 
 connected with external supply voltage 
 
-<b>Fill the name of experiment owner here  | <b>To study the resonance condition of a series LCR circuit 
+<b>Name of developer  | <b>Sneha Kumari 
 :--|:--|
 <b> Institute | <b> Rajkiya Engineering College Banda
 <b> Email id|     <b> snehakumarihzb1@gmail.com  
