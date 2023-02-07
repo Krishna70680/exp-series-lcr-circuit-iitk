@@ -41,4 +41,35 @@ An inductor (L), capacitor (C), and resistor (R) are linked in series in the ele
 <br>● Capacitive reactance: XC=1/ωC
 <br>● Inductive reactance: XL=ωL
 <br>● Impedance: Z= √ (R^2 + (|X L - X C |)^ 2)
-<img  src="[Screenshot_20230207_030652.png](https://github.com/Krishna70680/exp-series-lcr-circuit-iitk/blob/main/experiment/Screenshot_20230207_030652.png)">
+<br>Vm sin(ωt)=qm ωZ[R/Z cos(ωt+θ) + (XC–XL)/Zsin(ωt+θ)] ……(4)
+<br>Consider,
+<br>R/Z = cos∅
+<br>(XC–XL)/Z = sin∅
+<br>Dividing the two equations:
+<br>(XC–XL)/R=tan∅
+<br>∅=tan
+<br>-1
+<br>((XC–XL)/R)
+<br>Substituting the above values in equation (4):
+<br>Vm sin(ωt)=qm ωZ[cos(ωt+θ–∅)]
+<br>Comparing the LHS and RHS of this equation, we get
+<br>Vm=qm ωZ=Im Z
+<br>The current in the LCR circuit,
+<br>I=dq/dt
+<br>or,
+<br>I = qm ωcos(ωt+θ)
+<br>I = Im cos(ωt+θ) [where, qm ω=Im]
+<br>Since, θ–∅= – π/2
+<br>θ= – π/2 + ∅
+<br>We get,
+<br>I = Im cos(ωt–π/2+∅)
+<br>I = Im sin(ωt+∅)
+<br>Here, Im=Vm/Z = Vm / √R
+<br>2+(XC–XL)
+<br>2 and ∅=tan
+<br>-1
+<br>(XC–XL/R)
+<br>● Thus, for θ=0∘ , As a result, the applied voltage and instantaneous current
+<br>are in phase
+<br>● For θ=90∘ , The applied voltage is out of phase with the instantaneous
+<br>current
