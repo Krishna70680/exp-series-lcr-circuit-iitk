@@ -80,5 +80,6 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.|Simulator will allow student to<br>make them to add values of<br>inductor, capacitor, and resistor.,<br>Moreover, the frequency value<br>should be input by the student.| <br> |   
+1.|Simulator will allow student to<br>make them to add values of<br>inductor, capacitor, and resistor.,<br>Moreover, the frequency value<br>should be input by the student.| <br> |Student will make the circuit as he want by dragging <br>the different component of the circuit. And suppose<br>student made the following circuit.|<br>| To initiate the<br>simulator
+   
 2.|  <br> | <br> |
