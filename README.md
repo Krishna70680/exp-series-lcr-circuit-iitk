@@ -22,5 +22,5 @@ connected with external supply voltage
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Ashutosh Tiwari | Faculty  | Applied Science |Rajkiya Engineering College Banda   | Ashutosh.tiwari@recbanda.ac.in
-1 | Sneha kumari | student  | Informationa Technology |Rajkiya Engineering College Banda   | snehakumarihzb1@gmail.com 
-2 | Krishna Maddheshiya | Student| Electrical Engineering| Rajkiya Engineering College Banda |krishna70680@gmail.com
+2 | Sneha kumari | student  | Informationa Technology |Rajkiya Engineering College Banda   | snehakumarihzb1@gmail.com 
+3 | Krishna Maddheshiya | Student| Electrical Engineering| Rajkiya Engineering College Banda |krishna70680@gmail.com
