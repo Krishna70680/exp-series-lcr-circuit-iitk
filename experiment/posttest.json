@@ -2,8 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What is the resonance condition for the series LCR circuit?
-",
+      "question": "What is the resonance condition for the series LCR circuit?",
       "answers": {
         "a": "The capacitive and inductive reactances are equal and 180 degrees out of phase at resonance.",
         "b": "The capacitive and inductive reactances are not equal and 180 degrees out of phase at resonance",
