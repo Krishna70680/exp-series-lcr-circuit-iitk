@@ -82,5 +82,5 @@ Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
 1.|Simulator will allow student to<br>make them to add values of<br>inductor, capacitor, and resistor.,<br>Moreover, the frequency value<br>should be input by the student.|Student will make the circuit as he want by dragging <br>the different component of the circuit. And suppose<br>student made the following circuit.|To initiate the<br>simulator |  
 2.|Simulator will allow to student<br> to connect inductor, capcitor and<br> resistor with their circuit.  |Student will now able to connect all the component<br>and suppose circuit look like following circuit  |student will now able to <br> find out the value of XL and Xc<br> along with the impedence value .
-3.|Now the Simulator will calculate <br> the value of Impedence Student can now <br>check the condition of resonance   | |Student will understand the  <br> the phenomena of resounance in series LCR  circuit.
+3.|Now the Simulator will calculate <br> the value of Impedence Student can now <br>check the condition of resonance   |![Screenshot_20230207_095917](https://user-images.githubusercontent.com/98009042/217447483-415ce0de-0651-49ce-ae0e-e2051360be9f.png) |Student will understand the  <br> the phenomena of resounance in series circuit.
 
