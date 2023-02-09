@@ -2,22 +2,22 @@
 An inductor (L), capacitor (C), and resistor (R) are linked in series in the electrical
 <br>circuit, which is powered by an AC voltage supply. The alternating voltage V is
 <br>supplied by the voltage source, where
-<br>V=Vm sin(ωt)
-           <br>where,
-           <br><h3>● Vm is the amplitude of the applied voltage, and
-           <br>● ω is the frequency of the applied voltage.</h3>
+<br><h5>V=Vm sin(ωt)<h5>
+<br>where,
+           <br>● Vm is the amplitude of the applied voltage, and
+           <br>● ω is the frequency of the applied voltage.
 <br>If q is the charge on the capacitor and I is the current flowing in the circuit at any
 <br>moment t, the voltage equation for the circuit can be written as follows:
-<br>Net EMF across the circuit: V (source voltage) = Voltage drop across resistor +
-<br>Voltage drop across capacitor + Self-induced Faraday’s emf in the inductor
-            <br><h3>V=L(di/dt) + IR + q/C</h3>
+<br>Net EMF across the circuit:<br>
+V (source voltage) = Voltage drop across resistor +Voltage drop across capacitor + Self-induced Faraday’s emf in the inductor
+            <br><h4>(V=L(di/dt) + IR + q/C)</h4>
 <br>The inductor’s self-inductance is denoted by L.
 <br>Substituting alternating voltage for the expression,
-            <br><h3>Vm sin(ωt) = L(di/dt) + IR + q/C …..(1)</h3>
+            <br><h4>Vm sin(ωt) = L(di/dt) + IR + q/C …..(1)</h4>
 <br>Let us use the analytical method to determine the instantaneous current I or its
 <br>matching phase to the applied alternating voltage V. We know that current is
 <br>equal to the rate at which electric charge flows per unit of time, i.e.,
-            <br><h3>I=dq/dt</h3>
+            <br><h4>I=dq/dt</h4>
 <br>Differentiating both sides with respect to time, we get:
             <br><h3>dI/dt=d</h3></h3>
             <br><h3>2q/dt</h3>
@@ -73,7 +73,7 @@ An inductor (L), capacitor (C), and resistor (R) are linked in series in the ele
 <br>are in phase
 <br>● For θ=90∘ , The applied voltage is out of phase with the instantaneous
 <br>current
-<h2>Resonance of LCR Circuith</h2>
+<h2>Resonance of LCR Circuit</h2>
  <br> It is the condition when the output of a circuit reaches its maximum at a
 <br>specific frequency, it is said to be in resonance.The resonance phenomenon is
 <br>connected with systems that have a tendency to oscillate at a specific
