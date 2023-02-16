@@ -1,4 +1,4 @@
-<h4> Procedure of performing the experiment in real la </h4>
+<h4> Procedure of performing the experiment in real lab </h4>
 
 For L-C-R series, the circuit is connected as shown in the figure-1.The
 source resistance and the series resistance should be small. The out put voltage of the
