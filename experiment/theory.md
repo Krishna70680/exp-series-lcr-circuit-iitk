@@ -4,7 +4,7 @@ series resonant or series tuned circuit ( figure-1). This is an acceptor circuit
 allows maximum current to flow through it at a particular ( resonant ) frequency and at all
 other frequencies it allows less current. </p><br>
 
-<img src="">
+<img src="images/krishana9.png">
 <br>
 In A.C. circuits the voltage and the current are usually out of phase. Across the
 inductor, the current lags behind the voltage by 900
