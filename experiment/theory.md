@@ -1,3 +1,4 @@
+<h2> Theory:</h2> <br>
 <p>(Series L-C-R) When the resistor R, inductor L and
 capacitor C are connected in series with a source of emf E , the circuit is called as the
 series resonant or series tuned circuit ( figure-1). This is an acceptor circuit, that means it
@@ -17,14 +18,15 @@ frequency. At this frequency the capacitive reactance( Xc = 1/ωC) and the induc
 reactance( X<sub>L </sub>= ωL) are equal and opposite in direction. So they get cancelled each other
 and only resistance acts.<br>
 
-The impedance of the circuit is given by <br>
-Z = R + j (ωL- 1/ωC )
-At resonance the reactive term disappears <br>
-ωL - 1/ωC = 0
-The impedance is minimum i.e. <br>
+<b>The impedance of the circuit is given by</b> <br>
+Z = R + j (ωL- 1/ωC ) <br>
+<b>At resonance the reactive term disappears</b> <br>
+ωL - 1/ωC = 0           <br>
+<b>The impedance is minimum i.e.</b> <br>
 Z = R <br>
-The current is maximum <br>
-<b>So </b>       ωL = 1/ωC <br>
+<b>The current is maximum </b><br>
+<b>So </b>      
+        ωL = 1/ωC <br>
 
 <img src="images/krishna 8.png ">   
 <br>
