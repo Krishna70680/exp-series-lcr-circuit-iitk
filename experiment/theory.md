@@ -26,7 +26,7 @@ Z = R <br>
 The current is maximum <br>
 <b>So </b>       ωL = 1/ωC <br>
 
-<img src=" ">   
+<img src="images/krishna 8.png ">   
 <br>
 
 
