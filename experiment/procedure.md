@@ -18,8 +18,8 @@ of current. The L,C and R values are noted to calculate the resonant frequency f
 
 <h4> Procedure of performing simulation of  resonance condition of a series LCR circuit </h4>
 <ol>
-  <li>User will select the value of voltage capacitor , resistance to the circuit </li>
-<li>Now the user will on the circuit by just pushing the ON button of the circuit.</li>
+  <li>User will select the value of voltage, capacitor , resistance and inductance to the circuit </li>
+<li>Now the user will on the circuit by just clicking on the ON button of the circuit.</li>
 <li> As user vary the value of frequency they will able to note the variation in current.</li>
 <li>By just varying the frequency user will try to find the value of that frequency at which the current reading is maximum.</li>
 <li> Now the user will calculate the value of frequency at selected value of R and L . </li>
